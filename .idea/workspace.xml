@@ -1,12 +1,987 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11f95ff5-13cb-47e7-a3b8-1823523e0592" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
+    <list default="true" id="b83848b3-fc0e-4b89-89a7-f23d164f7710" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ravevideo.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/angularjs-template-master (2).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/fileTemplates/AngularJS-Controller-Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/fileTemplates/AngularJS-Factory-Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/fileTemplates/AngularJS-Factory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/fileTemplates/AngularJS-Filter-Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/fileTemplates/AngularJS-Filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/fileTemplates/AngularJS-Komponente mit Routing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/fileTemplates/AngularJS-Komponente.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/fileTemplates/AngularJS-Service-Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/fileTemplates/AngularJS-Service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/runConfigurations/E2E_Tests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/.idea/runConfigurations/Unit_Tests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/app.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/components/navBar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/components/navBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/filters/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/images/mainframe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/models/seite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/services/dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angular-material-1.1.19/angular-material.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angular-material-1.1.19/angular-material.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angular-ui-router-1.0.22/angular-ui-router.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-animate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-animate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-animate.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-aria.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-aria.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-aria.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-cookies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-cookies.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-cookies.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-csp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-loader.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-loader.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-message-format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-message-format.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-message-format.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-messages.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-messages.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-mocks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-parse-ext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-parse-ext.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-parse-ext.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-resource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-resource.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-resource.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-route.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-route.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-sanitize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-sanitize.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-sanitize.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-touch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-touch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular-touch.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/angular.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/errors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_af-na.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_af-za.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_agq-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_agq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ak-gh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ak.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_am-et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_am.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-001.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-ae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-bh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-dj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-dz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-eg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-eh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-er.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-il.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-iq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-jo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-kw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-lb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-ly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-ma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-mr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-om.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-ps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-qa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-sa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-sd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-so.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-ss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-sy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-td.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-tn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-xb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar-ye.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_as-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_as.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_asa-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_asa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ast-es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_az-cyrl-az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_az-cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_az-latn-az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_az-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bas-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_be-by.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bem-zm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bez-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bez.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bg-bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bm-ml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bn-bd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bn-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bo-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bo-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_br-fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_brx-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_brx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bs-cyrl-ba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bs-cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bs-latn-ba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bs-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ca-ad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ca-es-valencia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ca-es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ca-fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ca-it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ce-ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_cgg-ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_cgg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_chr-us.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_chr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ckb-arab-iq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ckb-arab-ir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ckb-arab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ckb-iq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ckb-ir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ckb-latn-iq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ckb-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ckb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_cs-cz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_cu-ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_cu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_cy-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_da-dk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_da-gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dav-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_de-at.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_de-be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_de-de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_de-it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_de-li.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_de-lu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dje-ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dje.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dsb-de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dsb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dua-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dyo-sn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dyo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dz-bt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_dz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ebu-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ebu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ee-gh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ee-tg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_el-cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_el-gr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-001.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-150.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ai.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-as.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-at.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-bb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-bi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-bm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-bw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-bz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-cc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-cx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-dg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-dk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-dm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-er.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-fj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-fk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-fm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-gd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-gg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-gh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-gi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-gm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-gy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-hk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-il.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-im.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-io.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-iso.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-je.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-jm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ki.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-kn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-lc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-lr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-mg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-mh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-mo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-mp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-mt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-mu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-mw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-na.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-nf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ng.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-nr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-nu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-nz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-pg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-pk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-pn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-pr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-pw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-rw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-sb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-sc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-sd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-se.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-sg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-sh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-sx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-sz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-tc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-tk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-to.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-tv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-um.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-us-posix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-us.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-vc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-vg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-vu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-ws.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-xa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-za.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-zm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en-zw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_eo-001.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-419.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-bo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-bz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-cl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-co.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-cr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-cu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-do.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-ea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-ec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-gq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-gt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-hn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-ic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-mx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-ni.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-pa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-pe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-ph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-pr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-py.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-us.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-uy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es-ve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_et-ee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_eu-es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ewo-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ewo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fa-af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fa-ir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ff-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ff-gn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ff-mr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ff-sn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fi-fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fil-ph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fo-dk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fo-fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-bf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-bi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-bj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-bl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-cd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-cf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-cg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-ci.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-dj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-dz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-ga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-gf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-gn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-gp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-gq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-ht.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-lu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-ma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-mc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-mf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-mg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-ml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-mq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-mr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-mu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-nc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-pf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-pm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-re.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-rw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-sc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-sn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-sy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-td.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-tg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-tn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-vu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-wf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr-yt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fur-it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fy-nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_fy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ga-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gd-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gl-es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gsw-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gsw-fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gsw-li.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gsw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gu-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_guz-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_guz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gv-im.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_gv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ha-gh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ha-ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ha-ng.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ha.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_haw-us.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_haw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_he-il.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hi-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hr-ba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hr-hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hsb-de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hsb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hu-hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hy-am.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_hy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_id-id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ig-ng.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ii-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ii.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_is-is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_it-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_it-it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_it-sm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_it-va.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_iw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ja-jp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_jgo-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_jgo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_jmc-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_jmc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ka-ge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kab-dz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kam-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kde-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kde.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kea-cv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_khq-ml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_khq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ki-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ki.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kk-kz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kkj-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kkj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kl-gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kln-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kln.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_km-kh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kn-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ko-kp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ko-kr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kok-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kok.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ks-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ksb-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ksb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ksf-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ksf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ksh-de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ksh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kw-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_kw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ky-kg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lag-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lb-lu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lg-ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lkt-us.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lkt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ln-ao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ln-cd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ln-cf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ln-cg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ln.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lo-la.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lrc-iq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lrc-ir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lt-lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lu-cd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_luo-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_luo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_luy-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_luy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lv-lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mas-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mas-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mer-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mfe-mu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mfe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mg-mg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mgh-mz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mgh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mgo-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mgo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mk-mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ml-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mn-mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mr-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ms-bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ms-my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ms-sg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mt-mt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mua-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_my-mm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mzn-ir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_mzn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_naq-na.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_naq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nb-no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nb-sj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nd-zw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nds-de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nds-nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nds.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ne-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ne-np.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nl-aw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nl-be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nl-bq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nl-cw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nl-nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nl-sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nl-sx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nmg-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nmg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nn-no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nnh-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nnh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_no-no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nus-ss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nyn-ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_nyn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_om-et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_om-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_om.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_or-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_or.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_os-ge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_os-ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_os.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pa-arab-pk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pa-arab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pa-guru-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pa-guru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pl-pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_prg-001.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_prg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ps-af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-ao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-cv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-gq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-gw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-lu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-mo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-mz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-st.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt-tl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_qu-bo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_qu-ec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_qu-pe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_qu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_rm-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_rm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_rn-bi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_rn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ro-md.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ro-ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_rof-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_rof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ru-by.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ru-kg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ru-kz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ru-md.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ru-ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ru-ua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_rw-rw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_rw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_rwk-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_rwk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sah-ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sah.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_saq-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_saq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sbp-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sbp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_se-fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_se-no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_se-se.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_se.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_seh-mz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_seh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ses-ml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sg-cf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_shi-latn-ma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_shi-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_shi-tfng-ma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_shi-tfng.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_shi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_si-lk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sk-sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sl-si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_smn-fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_smn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sn-zw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_so-dj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_so-et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_so-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_so-so.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_so.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sq-al.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sq-mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sq-xk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr-cyrl-ba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr-cyrl-me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr-cyrl-rs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr-cyrl-xk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr-cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr-latn-ba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr-latn-me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr-latn-rs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr-latn-xk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sv-ax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sv-fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sv-se.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sw-cd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sw-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sw-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sw-ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ta-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ta-lk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ta-my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ta-sg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ta.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_te-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_te.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_teo-ke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_teo-ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_teo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_th-th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ti-er.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ti-et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ti.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_tk-tm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_tk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_tl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_to-to.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_to.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_tr-cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_tr-tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_twq-ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_twq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_tzm-ma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_tzm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ug-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_uk-ua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ur-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ur-pk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_ur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_uz-arab-af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_uz-arab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_uz-cyrl-uz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_uz-cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_uz-latn-uz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_uz-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_uz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vai-latn-lr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vai-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vai-vaii-lr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vai-vaii.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vai.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vi-vn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vo-001.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vun-tz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_vun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_wae-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_wae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_xog-ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_xog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_yav-cm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_yav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_yi-001.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_yi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_yo-bj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_yo-ng.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_yo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_yue-hk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_yue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zgh-ma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zgh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-hans-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-hans-hk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-hans-mo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-hans-sg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-hans.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-hant-hk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-hant-mo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-hant-tw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-hant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-hk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh-tw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zu-za.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/i18n/angular-locale_zu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/angularjs-1.7.2/version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/default-passive-events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/jquery-3.4.1/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/material-icons-3.0.1/MaterialIcons-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/material-icons-3.0.1/MaterialIcons-Regular.ijmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/material-icons-3.0.1/MaterialIcons-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/material-icons-3.0.1/MaterialIcons-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/material-icons-3.0.1/MaterialIcons-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/material-icons-3.0.1/MaterialIcons-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/material-icons-3.0.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/material-icons-3.0.1/codepoints" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/material-icons-3.0.1/material-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ar-dz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ar-kw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ar-ly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ar-ma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ar-sa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ar-tn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/bm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/bo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/cv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/de-at.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/dv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/en-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/en-il.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/en-nz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/es-do.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/es-us.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/fr-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/fy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/gd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/gom-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/hy-am.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/jv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/kk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/kn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/lb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/lo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/mi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/mr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ms-my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/mt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/nl-be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/nn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/pa-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/sd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/se.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/sr-cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ta.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/te.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/tet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/tg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/tl-ph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/tlh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/tzl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/tzm-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/tzm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ug-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/ur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/uz-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/uz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/x-pseudo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/yo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/zh-hk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/locale/zh-tw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/moment-with-locales.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/moment.js-2.24.0/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-bold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-bold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-bolditalic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-bolditalic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-bolditalic-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-bolditalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-bolditalic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-italic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-italic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-italic-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-italic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-italic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/app/vendor/roboto/roboto_license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/e2e-tests/01-nav.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularjs-template-master/package.json" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,62 +989,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="anmeldeForm.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="2" />
-              <folding />
+            <state relative-caret-position="253">
+              <caret line="252" column="24" lean-forward="true" selection-start-line="252" selection-start-column="24" selection-end-line="252" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="anmeldeForm.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/instagram.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/facebook.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="170">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="core-scripting.rnc" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/core-scripting.rnc">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.lock">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/insert.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="340">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navBar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/navBar.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/save (1).php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navBar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/navBar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-              <folding />
+            <state relative-caret-position="131">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -79,51 +1054,42 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>method</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.js" />
-        <option value="$PROJECT_DIR$/angularjs-template-master/app/components/navBar.js" />
-        <option value="$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.html" />
-        <option value="$PROJECT_DIR$/angularjs-template-master/app/components/navBar.html" />
-        <option value="$PROJECT_DIR$/angularjs-template-master/app/index.html" />
+        <option value="$PROJECT_DIR$/save.php" />
+        <option value="$PROJECT_DIR$/load.php" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$USER_HOME$/Downloads/save (1).php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/insert.php" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="951" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,27 +1100,24 @@
             <path>
               <item name="UnicornZombieApocalypse" type="b2602c69:ProjectViewProjectNode" />
               <item name="UnicornZombieApocalypse" type="462c0819:PsiDirectoryNode" />
-              <item name="angularjs-template-master" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Thomas\Downloads\angularjs-template-master (2)\angularjs-template-master\app\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Thomas\Downloads\angularjs-template-master (2)\angularjs-template-master\app" />
+      <recent name="C:\Users\totog\OneDrive\Desktop\HTL Rennweg\UnicornZombieApocalypse" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -170,185 +1133,139 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63340/angularjs-template-master (2)/angularjs-template-master/app/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/UnicornZombieApocalypse/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="11f95ff5-13cb-47e7-a3b8-1823523e0592" name="Default" comment="" />
-      <created>1588535887208</created>
+      <changelist id="b83848b3-fc0e-4b89-89a7-f23d164f7710" name="Default Changelist" comment="" />
+      <created>1589027539297</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588535887208</updated>
-      <workItem from="1588535888364" duration="2821000" />
-      <workItem from="1588575725991" duration="3110000" />
-      <workItem from="1588578917448" duration="6000" />
+      <updated>1589027539297</updated>
+      <workItem from="1589027540672" duration="908000" />
+      <workItem from="1589120767020" duration="5087000" />
+      <workItem from="1589188609720" duration="17449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5937000" />
+    <option name="totallyTimeSpent" value="23444000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1295302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30201343" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.js">
+    <entry file="file://$PROJECT_DIR$/save.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="238">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.html">
+    <entry file="file://$PROJECT_DIR$/load.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/core-scripting.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/navBar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/navBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.js">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.html">
+    <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/index.html">
+    <entry file="file://$PROJECT_DIR$/images/facebook.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/instagram.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="253">
+          <caret line="252" column="24" lean-forward="true" selection-start-line="252" selection-start-column="24" selection-end-line="252" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.html">
+    <entry file="file://$PROJECT_DIR$/insert.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="340">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/core-scripting.rnc">
+    <entry file="file://$USER_HOME$/Downloads/save (1).php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/anmeldeForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/navBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/components/navBar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angularjs-template-master/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-          <folding />
+        <state relative-caret-position="131">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>

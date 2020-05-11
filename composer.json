@@ -1,0 +1,12 @@
+{
+    "name": "vendor/unicornzombieapocalypse",
+    "description": "composer for my project",
+    "type": "project",
+    "require": {
+        "doctrine/dbal": "^2.10"
+    },
+
+    "require": {
+        "typo3fluid/fluid": "^2.6"
+    },
+}

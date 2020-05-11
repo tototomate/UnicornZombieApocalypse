@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="de" ng-app="Vorlage">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="script.js" defer></script>
+    <title>Unicorn Zombie Apocalypse</title>
+</head>
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+    }
+
+    body {
+        background-image: url('images/mainframe.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+
+        padding:0;
+    }
+
+    nav-bar img {
+        height: 3%;
+    }
+
+    #main {
+        background-color: white;
+        opacity: 95%;
+        width: 80%;
+        height: 100vh;
+
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0;
+        overflow: hidden;
+    }
+
+    li {
+        font-size: 2em;
+        float: left;
+    }
+
+    li:last-child {
+        border-right: none;
+    }
+
+    li {
+        display: block;
+        text-align: center;
+        margin-right: 60px;
+        text-decoration: none;
+        color: black;
+    }
+
+    .tab {
+        cursor: pointer;
+    }
+
+    .tab:hover {
+        color: dodgerblue;
+    }
+
+    form {
+        background-color: white;
+    }
+
+    #icon {
+        float: left;
+        padding-top: 10px;
+        padding-left: 30px;
+    }
+
+    #tabs {
+        float: right;
+        padding-top: 53px;
+    }
+
+    [data-tab-content] {
+        display: none;
+    }
+
+    .active[data-tab-content] {
+        display: block;
+    }
+
+    .facebook {
+        padding: 0px;
+        width: 40px;
+        text-decoration: none;
+        color: white;
+    }
+
+    .facebook:hover {
+        opacity: 70%;
+        cursor: pointer
+    }
+
+    .youtube {
+        padding: 0px;
+        width: 40px;
+        text-decoration: none;
+        color: white;
+    }
+
+    .youtube:hover {
+        opacity: 70%;
+        cursor: pointer
+    }
+
+    .twitter {
+        padding: 0px;
+        width: 40px;
+        text-decoration: none;
+        color: white;
+    }
+
+    .twitter:hover {
+        opacity: 70%;
+        cursor: pointer
+    }
+
+    .instagram {
+        padding: 0px;
+        width: 40px;
+        text-decoration: none;
+        color: white;
+    }
+
+    .instagram:hover {
+        opacity: 70%;
+        cursor: pointer
+    }
+
+    footer {
+        margin-top: auto;
+    }
+
+    .page-content {
+        min-height: 100%;
+        margin-bottom: -120px;
+    }
+
+    .page-content::after {
+        content: "";
+        display: block;
+    }
+
+    footer, .page-content::after {
+        height: 120px;
+    }
+
+    .botnav {
+        text-decoration: underline;
+
+    }
+
+    .botnav:hover {
+        cursor: pointer;
+    }
+
+    .contact-form{
+        width:85%;
+        max-width:600px;
+        background:#f1f1f1;
+        position:absolute;
+        top:50%;
+        left:50%;
+        transform: translate(-50%,-50%);
+        padding:30px 40px;
+        box-sizing:border-box;
+        border-radius:8px;
+        text-align:center;
+        box-shadow: 0 0 20px #000000b3;
+        font-family:"Montserrat", sand-serif;
+    }
+
+    .contact-form h1{
+        margin-top:0;
+        font-weight:200;
+    }
+
+    .txtb{
+        border:1px solid gray;
+        margin:8px 0;
+        padding:12px 18px;
+        border-radius: 8px;
+    }
+
+    .txtb label{
+        display:block;
+        text-align:left;
+        color:#333;
+        text-transform:uppercase;
+        fon-size:14px;
+    }
+
+    .txtb input, .txtb textarea{
+        width: 100%;
+        border:none;
+        background: none;
+        outline: none;
+        font-size:18px;
+        margin-top:6px;
+    }
+
+    .btn{
+        display:block;
+        background:#9b59b6;
+        padding:14px 0;
+        color:white;
+        text-transform:uppercase;
+        cursor:pointer;
+        margin-top:8px;
+        width:100%;
+    }
+</style>
+<body layout="column" ng-cloak>
+<center>
+    <div id="main" layout="column">
+        <div class="page-content">
+            <nav id="navBar" layout="row" flex="100">
+                <ul class="tabs">
+                    <div id="icon">
+                        <li data-tab-target="#home" class="tab">
+                            <img src="images/unicornzombie.png" alt="Unicorn Zombie" height="120" width="80"></a>
+                        </li>
+                    </div>
+                    <div id="tabs">
+                        <li data-tab-target="#home" class="tab">
+                            Home
+                        </li>
+                        <li data-tab-target="#about" class="tab">
+                            About
+                        </li>
+                        <li data-tab-target="#guestlist" class="tab">
+                            Guestlist
+                        </li>
+                    </div>
+
+                </ul>
+            </nav>
+            <hr>
+            <div id="home" data-tab-content class="active">
+                <center>
+                    <h2>
+                        THE UNICORN ZOMBIE APOCALYPSE RAVE
+                    </h2>
+                    <h3>
+                        It's the biggest and craziest RAVE you will ever experience
+                    </h3>
+                    <p>
+                        You were lying in the bed and doing nothing all day because of the coronavirus?
+                        <br>
+                        When parties are allowed
+                        again and
+                        when the quarantine is over, you can experience the best Drum n Bass and Dubstep party ever.
+                        <br>
+                        All you have to do
+                        is to fill in the guestlist formular and with much luck, you can also win an exclusive UNICORN
+                        ZOMBIE
+                        APOCALYPSE
+                        tshirt.
+                        <br>
+                        <br>
+                        We will see you at the rave
+                    </p>
+                </center>
+            </div>
+            <div id="about" data-tab-content>
+                <center>
+                    <p>
+                        A short video if you want to know what a rave looks like
+                    </p>
+                    <video width="426" height="320" controls id="ravevideo">
+                        <source src="images/ravevideo.mp4" type="video/mp4">
+
+                    </video>
+                </center>
+            </div>
+<form method="get" action="insert.php">
+            <div class=contact-form" id="guestlist" data-tab-content>
+                <center>
+                    <h2>
+                        Please fill in the formular, so that you can participate in the best rave ever
+                    </h2>
+                </center>
+                <hr>
+                <h1>Guetslist Registration</h1>
+
+                <div class="txtb">
+                    <label> First Name </label>
+                    <input type="text" name="vorname" id="vorname" placeholder="Enter Your First Name" required>
+                </div>
+
+                <div class="txtb">
+                    <label> Last Name </label>
+                    <input type="text" name="nachname" id="nachname" placeholder="Enter Your Last Name" required>
+                </div>
+
+                <div class="txtb">
+                    <label>  Birthday </label>
+                    <input placeholder="Enter your Birthday" class="textbox-n" type="text" name="geburtsdatum"
+                           onfocus="(this.type='date')" onblur="(this.type='text')" id="geburtsdatum" required/>                </div>
+
+                <div class="txtb">
+                    <label> Email </label>
+                    <input type="text" name="email" placeholder="Enter Your Email" required>
+                </div>
+
+                <div class="txtb">
+                    <label> Shirtsize </label>
+                    <input type="text" name="shirtsize" placeholder="Enter Your Shirtsize" required>
+                </div>
+
+                <input name="btn" type="submit" name="submit" placeholder="Submit">
+            </div>
+</form>
+        </div>
+
+        <hr>
+        <footer>
+            <div>
+                <img class="facebook" src="images/facebook.png" alt="Facebook Icon">
+                <img class="instagram" src="images/instagram.png" alt="Instagram Icon">
+                <img class="youtube" src="images/youtube.png" alt="YouTube Icon">
+                <img class="twitter" src="images/twitter.png" alt="Twitter Icon">
+            </div>
+            <div class="navbar-bot">
+                <ul>
+                    <a data-tab-target="#home" class="botnav">Home</a>
+                    <a data-tab-target="#about" class="botnav">About</a>
+                    <a data-tab-target="#guestlist" class="botnav">Guestlist</a>
+                </ul>
+            </div>
+        </footer>
+    </div>
+</center>
+
+</body>
+
+</html>
